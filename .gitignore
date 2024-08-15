@@ -1,0 +1,6 @@
+# MySQL veritabanı dosyaları
+data
+.sock
+.cnf
+.index
+.log
